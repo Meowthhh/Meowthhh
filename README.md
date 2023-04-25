@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/Meowthhh/Meowthhh/blob/main/banner.png)
 
-## Sabah Nushra  <img src='https://storage.googleapis.com/deleplace-sandbox/2019/go-gcf/gopher-dance-long-3x-sign.gif' width='20px' alt='Assalamu Alaikum'>
+## About me  <img src='https://storage.googleapis.com/deleplace-sandbox/2019/go-gcf/gopher-dance-long-3x-sign.gif' width='20px' alt='Assalamu Alaikum'>
 
 <p align='justify'>
     I'm an enthusiastic competetive programmer who enjoys solving problem, currently studying at <a href='https://www.iutoic-dhaka.edu/'>IUT</a>. I'm passionate about coding to make people's daily life more easier. I have been learning new things since I got acquainted with programming.<br>
