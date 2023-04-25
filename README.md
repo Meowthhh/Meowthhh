@@ -3,8 +3,9 @@
 ## About me  <img src='https://storage.googleapis.com/deleplace-sandbox/2019/go-gcf/gopher-dance-long-3x-sign.gif' width='20px' alt='Assalamu Alaikum'>
 
 <p align='justify'>
-    I'm an enthusiastic competetive programmer who enjoys solving problem, currently studying at <a href='https://www.iutoic-dhaka.edu/'>IUT</a>. I'm passionate about coding to make people's daily life more easier. I have been learning new things since I got acquainted with programming.<br>
-    Writing readable & reusable code are my first priorities. I have keen interest in software development.
+I am currently a junior year student pursuing a major in Computer Science and Engineering at <a href='https://www.iutoic-dhaka.edu/'>IUT</a>. My interests are primarily centered around problem-solving and software development. I have successfully solved numerous problems across various online platforms, exceeding a count of thousands. My passion for programming lies in my desire to make daily life easier for individuals.
+
+In my pursuit of knowledge, I have consistently learned and developed new skills since becoming acquainted with programming. Producing code that is both readable and reusable is of utmost importance to me, recognizing the critical role of quality in software development. Moreover, I have a keen interest in the field of software development and am currently dedicated to expanding my knowledge in Flutter.
 </p>
 
  
