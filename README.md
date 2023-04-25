@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+![Github Banner](https://github.com/Meowthhh/Meowthhh/blob/main/banner.png)
 
 ## Sabah Nushra  <img src='https://storage.googleapis.com/deleplace-sandbox/2019/go-gcf/gopher-dance-long-3x-sign.gif' width='20px' alt='Assalamu Alaikum'>
 
