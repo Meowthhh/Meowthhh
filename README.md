@@ -46,6 +46,10 @@ Technologies and Languages </h2>
 	<a href="#"><img alt="React.js" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
 	<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
+    <a href="#"><img alt="ECLIPSE" src="https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse"></a>
+    <a href="#"><img alt="JQuery" src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white"></a>
 <h2 align="Left">
 Connect with me </h2>
 
