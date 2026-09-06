@@ -13,19 +13,18 @@ In my pursuit of knowledge, I have consistently learned and developed new skills
 
 | | |
 |---|---|
-| <img width="495" height="200" src="https://github-stats-extended.vercel.app/api?username=Meowthhh&show_icons=true&count_private=true&bg_color=0d1117&title_color=79a6f6&text_color=c9d1d9&icon_color=79a6f6&border_color=30363d&border_radius=8" alt="GitHub Stats"/> | <img width="495" height="200" src="https://streak-stats.demolab.com/?user=Meowthhh&background=0D1117&border=30363D&stroke=30363D&ring=79A6F6&fire=79A6F6&currStreakNum=C9D1D9&sideNums=79A6F6&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=8" alt="GitHub Streak"/> |
-| <img width="495" height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Meowthhh&layout=compact&langs_count=8&card_width=495&bg_color=0d1117&title_color=79a6f6&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Most Used Languages"/> | <img width="495" height="200" src="https://quickchart.io/chart?width=495&height=200&format=svg&backgroundColor=%230D1117&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Medical%20AI%22%2C%22Computer%20Vision%22%2C%22Foundation%20Models%22%2C%22Cross-Dataset%20Gen.%22%2C%22Few-Shot%20Learning%22%2C%22XAI%20%26%20Robustness%22%2C%22NLP%20/%20Multilingual%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Interest%22%2C%22data%22%3A%5B24%2C20%2C17%2C15%2C11%2C8%2C5%5D%2C%22backgroundColor%22%3A%5B%22%2379A6F6%22%2C%22%236EA8FE%22%2C%22%2358A6FF%22%2C%22%2363B3ED%22%2C%22%234FD1C5%22%2C%22%23A78BFA%22%2C%22%23F59E0B%22%5D%2C%22borderRadius%22%3A6%2C%22borderSkipped%22%3Afalse%2C%22barThickness%22%3A11%7D%5D%7D%2C%22options%22%3A%7B%22animation%22%3Afalse%2C%22indexAxis%22%3A%22y%22%2C%22responsive%22%3Atrue%2C%22maintainAspectRatio%22%3Afalse%2C%22layout%22%3A%7B%22padding%22%3A%7B%22top%22%3A10%2C%22right%22%3A18%2C%22bottom%22%3A10%2C%22left%22%3A18%7D%7D%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Current%20Research%20Interests%22%2C%22color%22%3A%22%2379A6F6%22%2C%22font%22%3A%7B%22size%22%3A18%2C%22weight%22%3A%22bold%22%7D%2C%22padding%22%3A%7B%22bottom%22%3A10%7D%7D%2C%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22min%22%3A0%2C%22max%22%3A25%2C%22grid%22%3A%7B%22color%22%3A%22%2330363D%22%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%238B949E%22%2C%22stepSize%22%3A5%2C%22font%22%3A%7B%22size%22%3A9%7D%7D%2C%22border%22%3A%7B%22color%22%3A%22%2330363D%22%7D%7D%2C%22y%22%3A%7B%22grid%22%3A%7B%22display%22%3Afalse%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23C9D1D9%22%2C%22font%22%3A%7B%22size%22%3A10%7D%7D%2C%22border%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D%7D" alt="Current Research Interests"/> |
+| <img width="495" height="200" src="https://github-stats-extended.vercel.app/api?username=Meowthhh&show_icons=true&count_private=true&bg_color=0d1117&title_color=79a6f6&text_color=c9d1d9&icon_color=79a6f6&border_color=30363d&border_radius=8" alt="GitHub Stats"/> | <img width="495" height="200" src="https://streak-stats.demolab.com/?user=Meowthhh&background=0D1117&border=30363D&stroke=30363D&ring=79A6F6&fire=79A6F6&currStreakNum=C9D1D9&sideNums=79A6F6&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/> |
+| <img width="495" height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Meowthhh&layout=compact&langs_count=8&card_width=495&bg_color=0d1117&title_color=79a6f6&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Most Used Languages"/> | <img width="495" height="200" src="https://quickchart.io/chart?width=495&height=200&format=svg&backgroundColor=%230D1117&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Medical%20AI%20%5Cu2014%2028%25%22%2C%22Computer%20Vision%20%5Cu2014%2022%25%22%2C%22Foundation%20Models%20%5Cu2014%2016%25%22%2C%22Cross-Dataset%20Gen.%20%5Cu2014%2014%25%22%2C%22Few-Shot%20%26%20XAI%20%5Cu2014%2012%25%22%2C%22NLP%20/%20Multilingual%20%5Cu2014%208%25%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B28%2C22%2C16%2C14%2C12%2C8%5D%2C%22backgroundColor%22%3A%5B%22%2379A6F6%22%2C%22%2358A6FF%22%2C%22%236EA8FE%22%2C%22%234FD1C5%22%2C%22%23A78BFA%22%2C%22%23F59E0B%22%5D%2C%22borderColor%22%3A%22%230D1117%22%2C%22borderWidth%22%3A2%2C%22hoverOffset%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22animation%22%3Afalse%2C%22responsive%22%3Atrue%2C%22maintainAspectRatio%22%3Afalse%2C%22cutout%22%3A%2255%25%22%2C%22layout%22%3A%7B%22padding%22%3A%7B%22top%22%3A6%2C%22right%22%3A8%2C%22bottom%22%3A6%2C%22left%22%3A8%7D%7D%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23C9D1D9%22%2C%22boxWidth%22%3A11%2C%22boxHeight%22%3A11%2C%22padding%22%3A9%2C%22font%22%3A%7B%22size%22%3A10%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Current%20Research%20Interests%22%2C%22color%22%3A%22%2379A6F6%22%2C%22font%22%3A%7B%22size%22%3A18%2C%22weight%22%3A%22bold%22%7D%2C%22padding%22%3A%7B%22top%22%3A4%2C%22bottom%22%3A8%7D%7D%2C%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%7D%7D" alt="Current Research Interests"/> |
 
 <!--
-To edit the 4th card later, update the label names and values in the QuickChart config.
+To edit the 4th card later, update the label names and values inside the QuickChart config.
 Current placeholder values:
-Medical AI 24
-Computer Vision 20
-Foundation Models 17
-Cross-Dataset Gen. 15
-Few-Shot Learning 11
-XAI & Robustness 8
-NLP / Multilingual 5
+Medical AI 28
+Computer Vision 22
+Foundation Models 16
+Cross-Dataset Gen. 14
+Few-Shot & XAI 12
+NLP / Multilingual 8
 -->
 
 <h2 align="Left">
