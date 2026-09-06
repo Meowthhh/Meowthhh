@@ -11,10 +11,48 @@ In my pursuit of knowledge, I have consistently learned and developed new skills
  
 ## Github Stats
 
-<img width="495" src="https://github-stats-extended.vercel.app/api?username=Meowthhh&show_icons=true&count_private=true&theme=github_dark">|<img width="495" src="https://streak-stats.demolab.com/?user=Meowthhh&theme=blueberry_duo"/>
-|---|---|
-<img width="495" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Meowthhh&layout=donut&langs_count=8&card_width=495&theme=github_dark"/>|<img width="495" src="./research-focus.png" alt="Research Focus"/>|
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img width="100%" height="200"
+           src="https://github-stats-extended.vercel.app/api?username=Meowthhh&show_icons=true&count_private=true&theme=github_dark"
+           alt="GitHub Stats">
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img width="100%" height="200"
+           src="https://streak-stats.demolab.com/?user=Meowthhh&theme=blueberry_duo"
+           alt="GitHub Streak">
+    </td>
+  </tr>
 
+  <tr>
+    <td width="50%" height="200" valign="top">
+      <h3>📊 Most Used Languages</h3>
+      <p>
+        <b>Jupyter Notebook</b> — 98.10%<br>
+        <b>EJS</b> — 0.76%<br>
+        <b>JavaScript</b> — 0.33%<br>
+        <b>Python</b> — 0.31%<br>
+        <b>Dart</b> — 0.21%<br>
+        <b>CSS</b> — 0.16%<br>
+        <b>C++</b> — 0.13%<br>
+        <b>C</b> — 0.01%
+      </p>
+    </td>
+
+    <td width="50%" height="200" valign="top">
+      <h3>🔬 Research & AI</h3>
+      <p>
+        <b>Medical AI</b> — MRI & disease classification<br>
+        <b>Computer Vision</b> — CNNs, ViTs & foundation models<br>
+        <b>Generalization</b> — Cross-dataset evaluation<br>
+        <b>Explainable AI</b> — XAI & model interpretation<br>
+        <b>Robustness</b> — Reliable model evaluation<br>
+        <b>NLP / LLMs</b> — Bangla & multilingual AI
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h2 align="Left">
 Technologies and Languages </h2>
