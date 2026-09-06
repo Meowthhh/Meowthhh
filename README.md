@@ -11,36 +11,10 @@ In my pursuit of knowledge, I have consistently learned and developed new skills
  
 ## Github Stats
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="middle">
-<img width="100%" height="200" src="https://github-stats-extended.vercel.app/api?username=Meowthhh&show_icons=true&count_private=true&theme=github_dark&border_radius=8" alt="GitHub Stats"/>
-</td>
-<td width="50%" align="center" valign="middle">
-<img width="100%" height="200" src="https://streak-stats.demolab.com/?user=Meowthhh&theme=github-dark-blue&border_radius=8" alt="GitHub Streak"/>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="middle">
-<img width="100%" height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Meowthhh&layout=compact&langs_count=8&card_width=495&theme=github_dark&border_radius=8" alt="Most Used Languages"/>
-</td>
-<td width="50%" height="200" valign="top">
-<h3>🔬 Research Profile</h3>
-<p><strong>Research Areas</strong><br>
-Medical AI • Computer Vision • Few-Shot Learning<br>
-Cross-Dataset Generalization • XAI • Robustness
-</p>
-<p><strong>Research Outputs</strong><br>
-<a href="https://repository.iutoic-dhaka.edu/items/9f26d719-2fda-46d9-b994-d52912c9f4d7">Few-Shot Medical Image Segmentation — IUT, 2024</a><br>
-<a href="https://lib.ibcol.org/paper/23bd03.html">Minty Blockers — IBCOL, 2023</a>
-</p>
-<p>
-<a href="YOUR_ORCID_PROFILE_URL"><img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/></a>
-<a href="https://scholar.google.com/citations?user=lZ24CQoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-</p>
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| <img width="495" height="200" src="https://github-stats-extended.vercel.app/api?username=Meowthhh&show_icons=true&count_private=true&bg_color=0d1117&title_color=79a6f6&text_color=c9d1d9&icon_color=79a6f6&border_color=30363d&border_radius=8" alt="GitHub Stats"/> | <img width="495" height="200" src="https://streak-stats.demolab.com/?user=Meowthhh&background=0D1117&border=30363D&stroke=30363D&ring=79A6F6&fire=79A6F6&currStreakNum=C9D1D9&sideNums=79A6F6&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=8" alt="GitHub Streak"/> |
+| <img width="495" height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Meowthhh&layout=compact&langs_count=8&card_width=495&bg_color=0d1117&title_color=79a6f6&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Most Used Languages"/> | <img width="495" height="200" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0d1117&text=Current%20Research%20Interests&fontColor=79a6f6&fontSize=21&fontAlign=31&fontAlignY=20&desc=Medical%20AI%20%20%E2%80%A2%20%20Computer%20Vision-nl-Foundation%20Models%20%20%E2%80%A2%20%20Few-Shot%20Learning-nl-Cross-Dataset%20Generalization-nl-Explainable%20AI%20%20%E2%80%A2%20%20Robustness-nl-NLP%20%20%E2%80%A2%20%20Multilingual%20AI&descSize=15&descAlign=34&descAlignY=60" alt="Current Research Interests"/> |
 
 <h2 align="Left">
 Technologies and Languages </h2>
