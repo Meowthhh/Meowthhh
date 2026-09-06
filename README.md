@@ -12,46 +12,34 @@ In my pursuit of knowledge, I have consistently learned and developed new skills
 ## Github Stats
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img width="100%" height="200"
-           src="https://github-stats-extended.vercel.app/api?username=Meowthhh&show_icons=true&count_private=true&theme=github_dark"
-           alt="GitHub Stats">
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img width="100%" height="200"
-           src="https://streak-stats.demolab.com/?user=Meowthhh&theme=blueberry_duo"
-           alt="GitHub Streak">
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" height="200" valign="top">
-      <h3>📊 Most Used Languages</h3>
-      <p>
-        <b>Jupyter Notebook</b> — 98.10%<br>
-        <b>EJS</b> — 0.76%<br>
-        <b>JavaScript</b> — 0.33%<br>
-        <b>Python</b> — 0.31%<br>
-        <b>Dart</b> — 0.21%<br>
-        <b>CSS</b> — 0.16%<br>
-        <b>C++</b> — 0.13%<br>
-        <b>C</b> — 0.01%
-      </p>
-    </td>
-
-    <td width="50%" height="200" valign="top">
-      <h3>🔬 Research & AI</h3>
-      <p>
-        <b>Medical AI</b> — MRI & disease classification<br>
-        <b>Computer Vision</b> — CNNs, ViTs & foundation models<br>
-        <b>Generalization</b> — Cross-dataset evaluation<br>
-        <b>Explainable AI</b> — XAI & model interpretation<br>
-        <b>Robustness</b> — Reliable model evaluation<br>
-        <b>NLP / LLMs</b> — Bangla & multilingual AI
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+<img width="100%" height="200" src="https://github-stats-extended.vercel.app/api?username=Meowthhh&show_icons=true&count_private=true&theme=github_dark&border_radius=8" alt="GitHub Stats"/>
+</td>
+<td width="50%" align="center" valign="middle">
+<img width="100%" height="200" src="https://streak-stats.demolab.com/?user=Meowthhh&theme=github-dark-blue&border_radius=8" alt="GitHub Streak"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+<img width="100%" height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Meowthhh&layout=compact&langs_count=8&card_width=495&theme=github_dark&border_radius=8" alt="Most Used Languages"/>
+</td>
+<td width="50%" height="200" valign="top">
+<h3>🔬 Research Profile</h3>
+<p><strong>Research Areas</strong><br>
+Medical AI • Computer Vision • Few-Shot Learning<br>
+Cross-Dataset Generalization • XAI • Robustness
+</p>
+<p><strong>Research Outputs</strong><br>
+<a href="https://repository.iutoic-dhaka.edu/items/9f26d719-2fda-46d9-b994-d52912c9f4d7">Few-Shot Medical Image Segmentation — IUT, 2024</a><br>
+<a href="https://lib.ibcol.org/paper/23bd03.html">Minty Blockers — IBCOL, 2023</a>
+</p>
+<p>
+<a href="YOUR_ORCID_PROFILE_URL"><img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/></a>
+<a href="https://scholar.google.com/citations?user=lZ24CQoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+</p>
+</td>
+</tr>
 </table>
 
 <h2 align="Left">
