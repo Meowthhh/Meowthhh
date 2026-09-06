@@ -11,9 +11,9 @@ In my pursuit of knowledge, I have consistently learned and developed new skills
  
 ## Github Stats
 
-<img height="200" width="100%" src="https://github-stats-extended.vercel.app/api?username=Meowthhh&show_icons=true&count_private=true&theme=github_dark">|<img height="200" width="100%" src="https://streak-stats.demolab.com/?user=Meowthhh&theme=blueberry_duo"/>
+<img width="495" src="https://github-stats-extended.vercel.app/api?username=Meowthhh&show_icons=true&count_private=true&theme=github_dark">|<img width="495" src="https://streak-stats.demolab.com/?user=Meowthhh&theme=blueberry_duo"/>
 |---|---|
-<img height="200" width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Meowthhh&layout=compact&langs_count=8&card_width=500&theme=github_dark"/>|<img height="200" width="100%" src="https://github-readme-stats-academic.vercel.app/api/academic?username=Meowthhh&theme=github_dark"/>|
+<img width="495" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Meowthhh&layout=donut&langs_count=8&card_width=495&theme=github_dark"/>|<img width="495" src="./research-focus.png" alt="Research Focus"/>|
 
 
 <h2 align="Left">
